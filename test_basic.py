@@ -5,3 +5,6 @@ def test_add():
 
 def test_multiply():
     assert multiply(2, 4) == 8
+
+def test_divide():
+    assert divide(16, 4) == 4
