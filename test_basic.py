@@ -1,4 +1,4 @@
-from basic import add, multiply
+from basic import add, multiply, divide
 
 def test_add():
     assert add(2, 5) == 7
